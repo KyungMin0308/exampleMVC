@@ -7,7 +7,7 @@
 
 ### **2. Environment**
 * **Eclispe**
-  + Dynamic Web Project로 시작 → Maven project로 변경
+  + Maven Project
 * **Tomcat 9.0**
 
 
