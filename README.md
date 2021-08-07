@@ -33,3 +33,6 @@
 * **web.xml**
   + 기본적인 web.xml 파일
   + 기본 웹 페이지를 index.jsp로 연결
+* **pom.xml**
+  + lombok
+  + jstl 
