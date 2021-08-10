@@ -31,7 +31,7 @@
   + 프로그램 실행 시 사용자에게 보여지는 첫 화면
   + 2개의 링크로 구성(loginform, help)
 * **web.xml**
-  + 기본적인 web.xml 파일
+  + 기본적인 web.xml
   + 기본 웹 페이지를 index.jsp로 연결
 * **pom.xml**
   + lombok
