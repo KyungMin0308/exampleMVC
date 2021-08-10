@@ -1,13 +1,13 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
+<meta charset="UTF-8">
 <title>Error</title>
 </head>
 <body>
-	Á¸ÀçÇÏÁö ¾Ê´Â ID ÀÔ´Ï´Ù. ID¸¦ È®ÀÎÇØÁÖ¼¼¿ä.
+	ì¡´ìž¬í•˜ì§€ ì•ŠëŠ” ID ìž…ë‹ˆë‹¤. IDë¥¼ í™•ì¸í•´ì£¼ì„¸ìš”.
 	<p> <a href="/exampleMVC/index.jsp"> try again </a> </p>
 </body>
 </html>

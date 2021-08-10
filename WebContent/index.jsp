@@ -1,14 +1,14 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-	pageEncoding="EUC-KR"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
+<meta charset="UTF-8">
 <title>Home</title>
 </head>
 <body>
-	Servlet°ú JSP¸¦ »ç¿ëÇÑ MVC ±¸Á¶ ¿¹Á¦ ÇÁ·Î±×·¥ÀÔ´Ï´Ù. <br>
-	ÇÁ·Î±×·¥¿¡ ´ëÇÑ ¼³¸íÀº help ÆäÀÌÁö¸¦ ÂüÁ¶ÇÏ¼¼¿ä.
+	Servletê³¼ JSPë¥¼ ì‚¬ìš©í•œ MVC êµ¬ì¡° ì˜ˆì œ í”„ë¡œê·¸ëž¨ìž…ë‹ˆë‹¤. <br>
+	í”„ë¡œê·¸ëž¨ì— ëŒ€í•œ ì„¤ëª…ì€ help íŽ˜ì´ì§€ë¥¼ ì°¸ì¡°í•˜ì„¸ìš”.
 	<p> <a href="/exampleMVC/home?action=login"> go to login page </a> </p>
 	<p>	<a href="/exampleMVC/home?action=help"> go to help page </a> </p>
 </body>

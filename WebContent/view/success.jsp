@@ -1,24 +1,24 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
+<meta charset="UTF-8">
 <title>Success</title>
 </head>
 <body>
 	
-	<%-- JSP Expression Language »ç¿ë --%>
+	<%-- JSP Expression Language ì‚¬ìš© --%>
 	<ul>
 		<li> ID: ${customer.id} </li>
 		<li> NAME: ${customer.name} </li>
 	</ul>
 	
-	<%-- JSTL »ç¿ë --%>
+	<%-- JSTL ì‚¬ìš© --%>
 	<table>
-		<caption>JSTL »ç¿ë ¿¹Á¦</caption>
+		<caption>JSTL ì‚¬ìš© ì˜ˆì œ</caption>
 		<tr>
 			<td>ID</td>
 			<td>NAME</td>

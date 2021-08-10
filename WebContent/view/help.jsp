@@ -1,16 +1,16 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
+<meta charset="UTF-8">
 <title>Help</title>
 </head>
 <body>
 	<ul>
-		<li> Customer ID¸¦ ÀÔ·ÂÇÏ°í press¸¦ ´©¸£¸é ÇØ´ç IDÀÇ »ç¿ëÀÚ ÀÌ¸§ÀÌ Ãâ·ÂµË´Ï´Ù. </li>
-		<li> Ãâ·Â °á°úÀÇ ÇÏ´Ü¿¡´Â JSTLÀ» ÀÌ¿ëÇÑ Ãâ·Â¹®À¸·Î ÀüÃ¼ »ç¿ëÀÚÀÇ ID¿Í ÀÌ¸§ÀÌ Ãâ·ÂµË´Ï´Ù. </li>
-		<li> Á¤È®ÇÑ ID¸¦ ÀÔ·ÂÇÏÁö ¾ÊÀ¸¸é ¿À·ù ÆäÀÌÁö·Î ³Ñ¾î°¡°Ô µË´Ï´Ù. </li>
+		<li> Customer IDë¥¼ ìž…ë ¥í•˜ê³  pressë¥¼ ëˆ„ë¥´ë©´ í•´ë‹¹ IDì˜ ì‚¬ìš©ìž ì´ë¦„ì´ ì¶œë ¥ë©ë‹ˆë‹¤. </li>
+		<li> ì¶œë ¥ ê²°ê³¼ì˜ í•˜ë‹¨ì—ëŠ” JSTLì„ ì´ìš©í•œ ì¶œë ¥ë¬¸ìœ¼ë¡œ ì „ì²´ ì‚¬ìš©ìžì˜ IDì™€ ì´ë¦„ì´ ì¶œë ¥ë©ë‹ˆë‹¤. </li>
+		<li> ì •í™•í•œ IDë¥¼ ìž…ë ¥í•˜ì§€ ì•Šìœ¼ë©´ ì˜¤ë¥˜ íŽ˜ì´ì§€ë¡œ ë„˜ì–´ê°€ê²Œ ë©ë‹ˆë‹¤. </li>
 	</ul>
 	
 	<p> <a href="/exampleMVC/index.jsp"> home </a> </p>
